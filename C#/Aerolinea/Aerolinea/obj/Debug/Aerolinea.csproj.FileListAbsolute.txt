@@ -1,0 +1,6 @@
+c:\users\young\onedrive\documentos\visual studio 2013\Projects\Aerolinea\Aerolinea\bin\Debug\Aerolinea.exe.config
+c:\users\young\onedrive\documentos\visual studio 2013\Projects\Aerolinea\Aerolinea\bin\Debug\Aerolinea.exe
+c:\users\young\onedrive\documentos\visual studio 2013\Projects\Aerolinea\Aerolinea\bin\Debug\Aerolinea.pdb
+c:\users\young\onedrive\documentos\visual studio 2013\Projects\Aerolinea\Aerolinea\obj\Debug\Aerolinea.csprojResolveAssemblyReference.cache
+c:\users\young\onedrive\documentos\visual studio 2013\Projects\Aerolinea\Aerolinea\obj\Debug\Aerolinea.exe
+c:\users\young\onedrive\documentos\visual studio 2013\Projects\Aerolinea\Aerolinea\obj\Debug\Aerolinea.pdb
