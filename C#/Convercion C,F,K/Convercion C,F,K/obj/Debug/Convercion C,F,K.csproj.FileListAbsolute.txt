@@ -1,0 +1,21 @@
+\\pfdsrv\documentos$\t024721\documents\visual studio 2013\Projects\Convercion C,F,K\Convercion C,F,K\bin\Debug\Convercion C,F,K.exe.config
+\\pfdsrv\documentos$\t024721\documents\visual studio 2013\Projects\Convercion C,F,K\Convercion C,F,K\obj\Debug\Convercion C,F,K.csprojResolveAssemblyReference.cache
+\\pfdsrv\documentos$\t024721\documents\visual studio 2013\Projects\Convercion C,F,K\Convercion C,F,K\bin\Debug\Convercion C,F,K.exe
+\\pfdsrv\documentos$\t024721\documents\visual studio 2013\Projects\Convercion C,F,K\Convercion C,F,K\bin\Debug\Convercion C,F,K.pdb
+\\pfdsrv\documentos$\t024721\documents\visual studio 2013\Projects\Convercion C,F,K\Convercion C,F,K\obj\Debug\Convercion C,F,K.exe
+\\pfdsrv\documentos$\t024721\documents\visual studio 2013\Projects\Convercion C,F,K\Convercion C,F,K\obj\Debug\Convercion C,F,K.pdb
+E:\Convercion C,F,K\Convercion C,F,K\bin\Debug\Convercion C,F,K.exe.config
+E:\Convercion C,F,K\Convercion C,F,K\obj\Debug\Convercion C,F,K.exe
+E:\Convercion C,F,K\Convercion C,F,K\obj\Debug\Convercion C,F,K.pdb
+E:\Convercion C,F,K\Convercion C,F,K\bin\Debug\Convercion C,F,K.exe
+E:\Convercion C,F,K\Convercion C,F,K\bin\Debug\Convercion C,F,K.pdb
+E:\Convercion C,F,K\Convercion C,F,K\obj\Debug\Convercion C,F,K.csprojResolveAssemblyReference.cache
+H:\Convercion C,F,K\Convercion C,F,K\bin\Debug\Convercion C,F,K.exe.config
+H:\Convercion C,F,K\Convercion C,F,K\obj\Debug\Convercion C,F,K.exe
+H:\Convercion C,F,K\Convercion C,F,K\obj\Debug\Convercion C,F,K.pdb
+C:\Users\young\OneDrive\Documentos\Visual Studio 2013\Projects\Convercion C,F,K\Convercion C,F,K\bin\Debug\Convercion C,F,K.exe.config
+C:\Users\young\OneDrive\Documentos\Visual Studio 2013\Projects\Convercion C,F,K\Convercion C,F,K\obj\Debug\Convercion C,F,K.exe
+C:\Users\young\OneDrive\Documentos\Visual Studio 2013\Projects\Convercion C,F,K\Convercion C,F,K\obj\Debug\Convercion C,F,K.pdb
+C:\Users\young\OneDrive\Documentos\Visual Studio 2013\Projects\Convercion C,F,K\Convercion C,F,K\bin\Debug\Convercion C,F,K.exe
+C:\Users\young\OneDrive\Documentos\Visual Studio 2013\Projects\Convercion C,F,K\Convercion C,F,K\bin\Debug\Convercion C,F,K.pdb
+C:\Users\young\OneDrive\Documentos\Visual Studio 2013\Projects\Convercion C,F,K\Convercion C,F,K\obj\Debug\Convercion C,F,K.csprojResolveAssemblyReference.cache
