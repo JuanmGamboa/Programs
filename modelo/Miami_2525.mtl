@@ -6,7 +6,7 @@ Ka 0 0 0
 Kd 1 1 1
 Ks 1 1 1
 Km 0
-map_Kd Maps/dm1.jpg
+map_Kd https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTXrIpFcfwKHMvBM7I4RJAIYN1t2ZycOVpOJOosOxER_T0x8EL
 
 newmtl Default
 d 0.8
